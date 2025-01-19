@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f9db3e8-e282-4440-be75-903fa708e56e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bank/Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PizzaBill/PizzaBill.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/com/school/student/StudentManagementWithSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/com/school/student/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/com/school/student/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main/java/com/school/student/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main/resources/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/test/java/com/school/student/StudentManagementWithSpringApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/components/AddStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/components/StudentTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/components/UpdateStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/layout/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/pages/Students.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/student-management-frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapractice/javapractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapractice/src/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapractice/src/cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapractice/src/cycleRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShivaPrasadNayak&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShivaPrasadNayak/Java.git&quot;,
+    &quot;accountId&quot;: &quot;0e78b710-eecc-4d3e-b50e-bcb924b7ecc8&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2rTCT6uQfCL0WitHTcgsoSt0xqP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.StudentManagementWithSpringApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Shiva/C-Language/Programming languages/Java/Projects/StudentManagementWithSpring/src/main/java/com/school/student&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shiva\C-Language\Programming languages\Java\Projects\StudentManagementWithSpring\src\main\java\com\school\student" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f9db3e8-e282-4440-be75-903fa708e56e" name="Changes" comment="" />
+      <created>1736573682804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736573682804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
